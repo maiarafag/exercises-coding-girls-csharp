@@ -1,0 +1,14 @@
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\bin\Debug\netcoreapp3.1\Ex4.exe
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\bin\Debug\netcoreapp3.1\Ex4.deps.json
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.json
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.dev.json
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\bin\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\bin\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.AssemblyReference.cache
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfoInputs.cache
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfo.cs
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\maiar\OneDrive\Documentos\CODING GIRLS\EXERCICIOS VS\Aula1\Ex4\obj\Debug\netcoreapp3.1\Ex4.genruntimeconfig.cache
